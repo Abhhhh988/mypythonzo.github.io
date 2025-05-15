@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>تعلم بايثون</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>مرحبًا بك في موقع تعلم بايثون</h1>
+        <p>ابدأ رحلتك البرمجية الآن!</p>
+    </header>
+    <main>
+        <section>
+            <h2>مقدمة عن بايثون</h2>
+            <p>بايثون لغة برمجة سهلة وبسيطة، مناسبة للمبتدئين والمحترفين.</p>
+        </section>
+        <section>
+            <h2>مثال برمجي</h2>
+            <pre><code>print("Hello, world!")</code></pre>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 موقع تعلم بايثون</p>
+    </footer>
+</body>
+</html>
